@@ -2,8 +2,8 @@
 
 ## Identificação do estudante
 - **Nome:** Hélio Junior Vieira Caires
-- **Disciplina:** _[preencher com o nome da disciplina]_
-- **Professor(a):** _[preencher, se aplicável]_
+- **Disciplina:** _[Algoritmos e Pensamento Computacional]_
+- **Professor(a):** _[Karla Roberto Sartin]_
 
 ## Objetivo da atividade
 Desenvolver um programa em linguagem C que aplique os conceitos de arrays (vetores), estruturas de repetição, estruturas condicionais, entrada de dados e operações matemáticas. O programa lê 20 números inteiros digitados pelo usuário, armazena-os em um vetor e realiza as seguintes análises:
