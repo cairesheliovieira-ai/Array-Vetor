@@ -77,7 +77,8 @@ Menor valor encontrado..............: -30
 ```
 
 ## Captura de tela da execução
-![Execução do programa](execucao.png)
+<img width="1490" height="1006" alt="image" src="https://github.com/user-attachments/assets/4182db51-6aac-4d33-bb8b-7ea5802e2c16" />
+
 
 ## Estrutura do repositório
 ```
